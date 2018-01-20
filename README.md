@@ -14,4 +14,4 @@
 
 |	NOMBRE		|		GITHUB			|
 | ------ 		| 		------ 			| 
-| Nombre del compañero 1| [enlace 1] (https://)			|
+| Nombre del compañero 1| [enlace 1] (https://github.com)	|
